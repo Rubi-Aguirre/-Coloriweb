@@ -1,0 +1,2 @@
+¡
+este es un cambio realizado en el archivo2.txt
